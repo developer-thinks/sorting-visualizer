@@ -18,7 +18,7 @@ const Footer = (props) => {
 
       <section className="Footer__Items">
         <a
-          href="https://github.com/sammed-sankonatti/sort-visualizer"
+          href="https://github.com/sammed-sankonatti/sorting-visualizer"
           target="_blank"
           rel="noopener noreferrer"
           className="Footer__Link"
